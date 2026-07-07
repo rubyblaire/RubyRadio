@@ -1,0 +1,16 @@
+﻿{
+    "Author":  "Ruby Blaire",
+    "Name":  "Ruby Radio",
+    "InternalName":  "RubyRadioPublicListener",
+    "AssemblyVersion":  "1.0.0.7",
+    "Punchline":  "Live radio for your time in Eorzea.",
+    "Description":  "A listener-only Ruby Radio plugin with a cornflower-blue, seafoam, and obsidian player. Paste a public Tailscale or hosted Ruby Radio room link, connect, and hear the opt-in broadcast through your Windows audio device. Includes now-playing progress, saved listener volume, and a Ruby Radio Discord link.",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  15,
+    "Tags":  [
+                 "Music",
+                 "Radio",
+                 "Roleplay",
+                 "Venue"
+             ]
+}

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RubyRadioPublicListener/1.0.0.7": {
+        "dependencies": {
+          "NAudio.Core": "2.3.0",
+          "NAudio.WinMM": "2.3.0"
+        },
+        "runtime": {
+          "RubyRadioPublicListener.dll": {}
+        }
+      },
+      "NAudio.Core/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/NAudio.Core.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "NAudio.WinMM/2.3.0": {
+        "dependencies": {
+          "NAudio.Core": "2.3.0"
+        },
+        "runtime": {
+          "lib/net6.0/NAudio.WinMM.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RubyRadioPublicListener/1.0.0.7": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NAudio.Core/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jMd7r6dB6tAtXhOYL58ntPqwERNm1/Rhw5MKOIYvsnXzuX+PTGsa2VMam6n0npZYSwlSidKa4GAm4bFcXFUlcg==",
+      "path": "naudio.core/2.3.0",
+      "hashPath": "naudio.core.2.3.0.nupkg.sha512"
+    },
+    "NAudio.WinMM/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5G1dRjsZm50T3luyuqcmI2BSvj3K4ZJaD/x776/0Epj88qOsOryDZG40+MufwIk1UFJSFWhRobBqtJYFc8Ss4g==",
+      "path": "naudio.winmm/2.3.0",
+      "hashPath": "naudio.winmm.2.3.0.nupkg.sha512"
+    }
+  }
+}

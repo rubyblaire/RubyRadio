@@ -1,0 +1,31 @@
+[
+  {
+    "Author": "Ruby Blaire",
+    "Name": "Ruby Radio",
+    "InternalName": "RubyRadioPublicListener",
+    "AssemblyVersion": "1.0.0.7",
+    "TestingAssemblyVersion": "1.0.0.7",
+    "Description": "A listener-only live radio player for FFXIV. Paste a public Ruby Radio room link and listen through your Windows audio device with now-playing information, track progress, saved volume controls, and an opt-in public broadcast connection.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Punchline": "Live radio for your time in Eorzea.",
+    "RepoUrl": "https://github.com/rubyblaire/RubyRadio",
+    "DownloadLinkInstall": "https://github.com/rubyblaire/RubyRadio/releases/download/1.0.0.7/RubyRadio.zip",
+    "DownloadLinkUpdate": "https://github.com/rubyblaire/RubyRadio/releases/download/1.0.0.7/RubyRadio.zip",
+    "DownloadLinkTesting": "https://github.com/rubyblaire/RubyRadio/releases/download/1.0.0.7/RubyRadio.zip",
+    "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RubyRadio/main/images/icon.png",
+    "Tags": [
+      "music",
+      "radio",
+      "audio",
+      "roleplay",
+      "venue",
+      "social"
+    ],
+    "AcceptsFeedback": true,
+    "FeedbackMessage": "Support and community: https://discord.gg/Dr836dmbqh",
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
