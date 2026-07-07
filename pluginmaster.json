@@ -5,7 +5,7 @@
     "InternalName": "RubyRadioPublicListener",
     "AssemblyVersion": "1.0.0.7",
     "TestingAssemblyVersion": "1.0.0.7",
-    "Description": "A listener-only live radio player for FFXIV. Paste a public Ruby Radio room link and listen through your Windows audio device with now-playing information, track progress, saved volume controls, and an opt-in public broadcast connection.",
+    "Description": "A listener-only plugin.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
