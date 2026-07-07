@@ -6,7 +6,6 @@
     "Punchline":  "Live radio for your time in Eorzea.",
     "Description":  "A listener-only plugin.",
     "ApplicableVersion":  "any",
-    "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RubyRadio/main/images/icon.png",
     "DalamudApiLevel":  15,
     "Tags":  [
                  "Music",
@@ -14,4 +13,6 @@
                  "Roleplay",
                  "Venue"
              ]
+    "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RubyRadio/main/images/icon.png",
+
 }
